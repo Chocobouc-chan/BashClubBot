@@ -1,0 +1,23 @@
+{
+  "name": "bashclubdev",
+  "version": "1.0.0",
+  "description": "Le chatbot du Bash Club",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chocobouc",
+  "license": "ISC",
+  "dependencies": {
+    "acebase": "^1.29.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "handlebars": "^4.7.7",
+    "passport": "^0.6.0",
+    "passport-oauth": "^1.0.0",
+    "request": "^2.88.2",
+    "tmi.js": "^1.8.5"
+  }
+}

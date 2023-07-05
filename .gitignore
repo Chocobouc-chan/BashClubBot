@@ -1,0 +1,6 @@
+.env
+.vscode
+package-lock.json
+getTestToken
+node_modules/
+BashClubDatabase.acebase/
